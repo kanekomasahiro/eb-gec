@@ -3,6 +3,7 @@
 ## Setup
 
 We use Python version == 3.7.10.
+
 All requirements can be found in `requirements.txt`. You can install all required packages with following:
 ```
 pip install -r requirements.txt
