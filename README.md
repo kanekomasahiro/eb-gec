@@ -1,5 +1,16 @@
 # Interpretability for Language Learners Using Example-Based Grammatical Error Correction
 
+Code for the paper: "[Interpretability for Language Learners Using Example-Based Grammatical Error Correction](https://arxiv.org/abs/2203.07085)" (In ACL 2022).
+If you use any part of this work, make sure you include the following citation:
+```
+@inproceedings{Kaneko:ACL:2022,
+    title={Interpretability for Language Learners Using Example-Based Grammatical Error Correction},
+    author={Masahiro Kaneko, Sho Takase, Ayana Niwa, Naoaki Okazaki},
+    booktitle={Proc. of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)},
+    year={2022}
+}
+```
+
 ## Setup
 
 We use Python version == 3.7.10.
